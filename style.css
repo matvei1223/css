@@ -1,0 +1,24 @@
+.a{
+color: rgb(255, 255, 255);
+font-size: 87px;
+font-weight: 700;
+text-decoration: underline;
+background: blue;
+letter-spacing: 11x;
+}
+div{
+width: 10px;
+height: 10px;
+background: red;
+border: 1px solid slategrey;
+border-radius: 20px;
+}
+.img{
+width: 1000px;
+border: 2px solid slategrey;
+border-radius: 100px;
+}
+.p{
+    display: inline-block;
+    border-bottom: 0px solid teal;
+}
